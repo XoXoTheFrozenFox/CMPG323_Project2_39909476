@@ -18,6 +18,8 @@ Did the following tasks:
 # Planned work 2023/08/17
 
 - Host a database on azure and host the app on azure.
+
+# How one should go to use the API
   
 # Bibliography( Research I did for me to be able to do this project)
 

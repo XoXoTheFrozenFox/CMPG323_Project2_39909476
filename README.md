@@ -19,7 +19,7 @@ Did the following tasks:
 
 - Host a database on azure and host the app on azure.
   
-# Bibliography
+# Bibliography( Research I did for me to be able to do this project)
 
 - Hopkinson, I., Maude, S. and Rospocher, M., 2014, October. A simple API to the KnowledgeStore. In ISWC (Developers Workshop) (pp. 7-12).
 

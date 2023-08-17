@@ -161,14 +161,13 @@ namespace Project2_39909476_webapi.Controllers
         [HttpGet("customer/{customerId}")]
         public async Task<ActionResult<IEnumerable<OrderDetail>>> GetOrdersForCustomer(int customerId)
         {
-            if (_context.OrderDetails == null)
-            {
-                return NotFound();
-            }
-
-            var ordersForCustomer = await _context.OrderDetails
-                .Where(od => od.OrderDetailsId == customerId)
-                .ToListAsync();
+            var ordersForCustomer = await (
+                from c in _context.Customers
+                join o in _context.Orders on c.CustomerId equals o.CustomerId
+                join od in _context.OrderDetails on o.OrderId equals od.OrderId
+                where c.CustomerId == customerId
+                select od
+            ).ToListAsync();
 
             if (ordersForCustomer == null || ordersForCustomer.Count == 0)
             {

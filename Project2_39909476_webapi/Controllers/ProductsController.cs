@@ -161,21 +161,12 @@ namespace Project2_39909476_webapi.Controllers
         [HttpGet("order/{orderId}")]
         public async Task<ActionResult<IEnumerable<Product>>> GetProductsForOrder(int orderId)
         {
-            if (_context.Products == null)
-            {
-                return NotFound();
-            }
-
-            var order = await _context.OrderDetails.FindAsync(orderId);
-
-            if (order == null)
-            {
-                return NotFound();
-            }
-
-            var productsForOrder = await _context.Products
-                .Where(p => order.OrderDetailsId == orderId)
-                .ToListAsync();
+            var productsForOrder = await (
+                from od in _context.OrderDetails
+                join p in _context.Products on od.ProductId equals p.ProductId
+                where od.OrderId == orderId
+                select p
+            ).ToListAsync();
 
             if (productsForOrder == null || productsForOrder.Count == 0)
             {

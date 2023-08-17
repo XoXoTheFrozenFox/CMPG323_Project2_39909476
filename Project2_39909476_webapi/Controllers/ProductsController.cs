@@ -158,6 +158,33 @@ namespace Project2_39909476_webapi.Controllers
             return NoContent();
         }
 
+        [HttpGet("order/{orderId}")]
+        public async Task<ActionResult<IEnumerable<Product>>> GetProductsForOrder(int orderId)
+        {
+            if (_context.Products == null)
+            {
+                return NotFound();
+            }
+
+            var order = await _context.OrderDetails.FindAsync(orderId);
+
+            if (order == null)
+            {
+                return NotFound();
+            }
+
+            var productsForOrder = await _context.Products
+                .Where(p => order.OrderDetailsId == orderId)
+                .ToListAsync();
+
+            if (productsForOrder == null || productsForOrder.Count == 0)
+            {
+                return NotFound();
+            }
+
+            return productsForOrder;
+        }
+
         private bool ProductExists(short id)
         {
             return (_context.Products?.Any(e => e.ProductId == id)).GetValueOrDefault();

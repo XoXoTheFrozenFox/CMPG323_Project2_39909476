@@ -158,6 +158,26 @@ namespace Project2_39909476_webapi.Controllers
             return NoContent();
         }
 
+        [HttpGet("customer/{customerId}")]
+        public async Task<ActionResult<IEnumerable<OrderDetail>>> GetOrdersForCustomer(int customerId)
+        {
+            if (_context.OrderDetails == null)
+            {
+                return NotFound();
+            }
+
+            var ordersForCustomer = await _context.OrderDetails
+                .Where(od => od.OrderDetailsId == customerId)
+                .ToListAsync();
+
+            if (ordersForCustomer == null || ordersForCustomer.Count == 0)
+            {
+                return NotFound();
+            }
+
+            return ordersForCustomer;
+        }
+
         private bool OrderDetailExists(short id)
         {
             return (_context.OrderDetails?.Any(e => e.OrderDetailsId == id)).GetValueOrDefault();

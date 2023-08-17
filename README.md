@@ -15,7 +15,7 @@ Did the following tasks:
 - Created the branches.
 - Updated the kanban project on what has been done
 
-#Planned work 2023/08/17
+# Planned work 2023/08/17
 
 - Host a database on azure and host the app on azure.
   

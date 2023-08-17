@@ -5,7 +5,6 @@ This is Bernard Swanepoel 39909476 API project for CMPG323 project2.
 
 Did the following tasks:
 
-- Created the branches.
 - Created the repository.
 - Cloned the github repository. 
 - Scaffolded the database into the project.

@@ -1,5 +1,5 @@
 # CMPG323_Project2_39909476
-API project
+This is Bernard Swanepoel 39909476 API project for CMPG323 project2.
 
 # 2023/08/17
 

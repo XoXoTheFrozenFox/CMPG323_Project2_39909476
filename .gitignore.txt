@@ -1,0 +1,25 @@
+# Ignore .NET Core build output
+bin/
+obj/
+
+# Ignore Visual Studio files
+.vs/
+*.suo
+*.user
+*.csproj.user
+
+# Ignore NuGet packages
+*.nuget.props
+*.nuget.targets
+packages/
+
+# Ignore build results
+*.dll
+*.exe
+*.pdb
+
+# Ignore debug logs
+*.log
+
+# Ignore solution files
+*.sln

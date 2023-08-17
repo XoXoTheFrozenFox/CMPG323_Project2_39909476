@@ -19,7 +19,7 @@ Did the following tasks:
 
 - Host a database on azure and host the app on azure.
 
-# How one should go to use the API
+# How one should go about using the API
   
 # Bibliography( Research I did for me to be able to do this project)
 

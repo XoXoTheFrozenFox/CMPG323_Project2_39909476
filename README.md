@@ -19,7 +19,7 @@ Did the following tasks:
 - Host a database on azure and host the app on azure.
 
 
-# Work did on2023/08/19
+# Work did on 2023/08/19
 
 Did the following tasks:
 

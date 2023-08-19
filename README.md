@@ -35,3 +35,41 @@ Did the following tasks:
 - Graham, S.T. and Liu, X., 2014, July. Critical evaluation on jclouds and cloudify abstract APIs against EC2, azure and HP-cloud. In 2014 IEEE 38th International Computer Software and Applications Conference Workshops (pp. 510-515). IEEE.
 
 - Atlidakis, V., Godefroid, P. and Polishchuk, M., 2019, May. Restler: Stateful rest api fuzzing. In 2019 IEEE/ACM 41st International Conference on Software Engineering (ICSE) (pp. 748-758). IEEE.
+
+- Stack Overflow. (n.d.). Gitignore not working. [online] Available at: https://stackoverflow.com/questions/25436312/gitignore-not-working [Accessed 19 Aug. 2023].
+
+- WhatIs.com. (n.d.). What is a 404 Error Code? What It Means and How to Fix It. [online] Available at: https://www.techtarget.com/whatis/definition/404-status-code#:~:text=404%20error%20codes%20are%20generated [Accessed 19 Aug. 2023].
+
+- Amazon Web Services (2023). What is an API? - API Beginner’s Guide - AWS. [online] Amazon Web Services, Inc. Available at: https://aws.amazon.com/what-is/api/.
+
+- rolyon (n.d.). Azure documentation. [online] learn.microsoft.com. Available at: https://learn.microsoft.com/en-us/azure/?product=popular.
+
+- Contentful. (n.d.). What is an API endpoint? [online] Available at: https://www.contentful.com/blog/api-endpoint/#:~:text=In%20summary%2C%20an%20API%20endpoint.
+
+- Bahrami, M., Park, J., Liu, L. and Chen, W.P., 2018, April. Api learning: Applying machine learning to manage the rise of api economy. In Companion Proceedings of the The Web Conference 2018 (pp. 151-154).
+
+- Falatah, M.M. and Batarfi, O.A., 2014. Cloud scalability considerations. International Journal of Computer Science and Engineering Survey, 5(4), p.37.
+
+- Siriwardena, Prabath. "Advanced API Security." Apress: New York, NY, USA (2014).
+
+- Dragoni, N., Giallorenzo, S., Lafuente, A.L., Mazzara, M., Montesi, F., Mustafin, R. and Safina, L., 2017. Microservices: yesterday, today, and tomorrow. Present and ulterior software engineering, pp.195-216.
+
+- Wilder, Bill. Cloud architecture patterns: using microsoft azure. " O'Reilly Media, Inc.", 2012.
+
+- Pietzuch, Peter, David Eyers, Samuel Kounev, and Brian Shand. "Towards a common api for publish/subscribe." In Proceedings of the 2007 inaugural international conference on Distributed event-based systems, pp. 152-157. 2007.
+
+- Niveditha, B. and Kumbar, M., 2021. HTTP Error Codes of Inaccessible and Retrieved URLs in LIS Journal Articles. Library Philosophy and Practice, pp.0_1-15.
+
+- Zaveri, A., Dastgheib, S., Wu, C., Whetzel, T., Verborgh, R., Avillach, P., Korodi, G., Terryn, R., Jagodnik, K., Assis, P. and Dumontier, M., 2017. smartAPI: towards a more intelligent network of web APIs. In The Semantic Web: 14th International Conference, ESWC 2017, Portorož, Slovenia, May 28–June 1, 2017, Proceedings, Part II 14 (pp. 154-169). Springer International Publishing.
+
+- Kratzke, N., 2018. A brief history of cloud application architectures. Applied Sciences, 8(8), p.1368.
+
+- Wankhede, P., Talati, M. and Chinchamalatpure, R., 2020. Comparative study of cloud platforms-microsoft azure, google cloud platform and amazon EC2. J. Res. Eng. Appl. Sci, 5(02), pp.60-64.
+
+- Di Martino, B., Cretella, G., Esposito, A. and Sperandeo, R.G., 2014, September. Semantic representation of cloud services: a case study for microsoft windows azure. In 2014 International Conference on Intelligent Networking and Collaborative Systems (pp. 647-652). IEEE.
+
+- Murphy, L., Kery, M.B., Alliyu, O., Macvean, A. and Myers, B.A., 2018, October. API designers in the field: Design practices and challenges for creating usable APIs. In 2018 ieee symposium on visual languages and human-centric computing (vl/hcc) (pp. 249-258). IEEE.
+
+- Alls, J., 2020. Clean Code in C#: Refactor your legacy C# code base and improve application performance by applying best practices. Packt Publishing Ltd.
+
+‌

@@ -1,7 +1,7 @@
 # CMPG323_Project2_39909476
 This is Bernard Swanepoel 39909476 API project for CMPG323 project2.
 
-# 2023/08/17
+# Work did on 2023/08/17
 
 Did the following tasks:
 
@@ -14,7 +14,12 @@ Did the following tasks:
 - Created the branches.
 - Updated the kanban project on what has been done
 
-# 2023/08/19
+# Planned work 2023/08/19
+
+- Host a database on azure and host the app on azure.
+
+
+# Work did on2023/08/19
 
 Did the following tasks:
 
@@ -26,10 +31,6 @@ Did the following tasks:
 - Added data to the database.
 - Created the appservice.
 - Published the api but got a 404 error.
-
-# Planned work 2023/08/17
-
-- Host a database on azure and host the app on azure.
 
 # How one should go about using the API
   

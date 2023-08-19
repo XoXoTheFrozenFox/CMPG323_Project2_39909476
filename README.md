@@ -33,6 +33,10 @@ Did the following tasks:
 - Published the api but got a 404 error.
 
 # How one should go about using the API
+
+- One should pull the data from the api's endpoints and use the data for data analytics or business insights.
+- This means that the data can be used to compare the performance of EcoPower-logistics with other companies that sell products in the same industry.
+- This can be used as a benchmark to determine where EcoPower-logistics stands as a company in comparison with other companies.
   
 # Bibliography( Research I did for me to be able to do this project)
 

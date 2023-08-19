@@ -14,6 +14,19 @@ Did the following tasks:
 - Created the branches.
 - Updated the kanban project on what has been done
 
+# 2023/08/19
+
+Did the following tasks:
+
+- Created my azure account.
+- Created the sql-database.
+- Created the sql-database-server.
+- Added my credentials to SSMS.
+- Ran the script to create the tables in the database.
+- Added data to the database.
+- Created the appservice.
+- Published the api but got a 404 error.
+
 # Planned work 2023/08/17
 
 - Host a database on azure and host the app on azure.

@@ -42,6 +42,11 @@ Did the following tasks:
 - This means that the data can be used to compare the performance of EcoPower-logistics with other companies that sell products in the same industry.
 - This can be used as a benchmark to determine where EcoPower-logistics stands as a company in comparison with other companies.
 - This also gives EcoPower-logistics a edge because they can get insight on what is going on in there own business.
+- Use the get endpoints to get data from the database or to get specific data using an ID.
+- Use put method to update the entire resource with data that is passed in the body payload
+- Use post method to update or create a resource.
+- Use patch method to midify resources.
+- Use of delete method to delete resources.
   
 # Bibliography( Research I did for me to be able to do this project)
 

@@ -32,6 +32,10 @@ Did the following tasks:
 - Created the appservice.
 - Published the api but got a 404 error.
 
+# Planned work
+
+- Fix 404 error
+
 # How one should go about using the API
 
 - One should pull the data from the api's endpoints and use the data for data analytics or business insights.

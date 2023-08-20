@@ -32,9 +32,23 @@ Did the following tasks:
 - Created the appservice.
 - Published the api but got a 404 error.
 
+# Planned work on 2023/08/20
+
+- Fix 404 http-error
+
+# Work did on 2023/08/20
+
+- Opted to used CI/CD with github actions to deploy my webapp.
+- I want to give credit to my brother Pieter Swanepoel for showing me how to use CI/CD with github-actions, without his assitance I probably wouldn't have had a deployed project.
+- Fixed http-error 404
+- Got an http-error 500 because azure database settings not correctly configured.
+- Fixed http-error 500
+
 # Planned work
 
-- Fix 404 error
+- Reimplement the .gitignore file.
+- Setup API management in Azure.
+- Implement API mangement functions.
 
 # How one should go about using the API
 

@@ -23,8 +23,9 @@ jobs:
           include-prerelease: true
 
       - name: Build with dotnet
-        run: cd Project2_39909476_webapi
-        run: dotnet build --configuration Release
+        run: |
+            dotnet build --configuration Release
+            cd Project2_39909476_webapi
 
       - name: dotnet publish
         run: dotnet publish -c Release -o ${{env.DOTNET_ROOT}}/myapp

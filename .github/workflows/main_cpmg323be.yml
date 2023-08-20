@@ -25,10 +25,11 @@ jobs:
       - name: Build with dotnet
         run: |
             cd Project2_39909476_webapi
-            dotnet build
+            dotnet build --configuration Release
+            $echo ${{env.DOTNET_ROOT}}
 
       - name: dotnet publish
-        run: dotnet publish 
+        run: dotnet publish -c Release -o ${{env.DOTNET_ROOT}}/net6.0
 
       - name: Upload artifact for deployment job
         uses: actions/upload-artifact@v2

@@ -39,6 +39,10 @@ Did the following tasks:
 # Work did on 2023/08/20
 
 - Opted to used CI/CD with github actions to deploy my webapp.
+- Started working very unorganised with a copy I made because of my .gitignore causing problems to deploy my azure API.
+- This made me remove my .gitignore file until I fixed the problems.
+- Played around with the .yml file for the github actions host because I placed my main files into a file which caused conflicts.
+- Took out the files and was able to host the API.
 - I want to give credit to my brother Pieter Swanepoel for showing me how to use CI/CD with github-actions, without his assitance I probably wouldn't have had a deployed project.
 - Fixed http-error 404.
 - Got an http-error 500 because azure database settings not correctly configured.

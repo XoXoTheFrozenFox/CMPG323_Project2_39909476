@@ -20,7 +20,7 @@ namespace Project2_39909476_webapi.Controllers
             _context = context;
         }
 
-        // GET: api/Customers
+        // GET: api/Customers 
         [HttpGet]
         public async Task<ActionResult<IEnumerable<Customer>>> GetCustomers()
         {
@@ -29,6 +29,13 @@ namespace Project2_39909476_webapi.Controllers
               return NotFound();
           }
             return await _context.Customers.ToListAsync();
+        }
+
+        [HttpGet("Health")]
+        public  String GetHealth()
+        {
+           
+            return "Hello Worlds Im alive";
         }
 
         // GET: api/Customers/5

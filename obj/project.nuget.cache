@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ueu3Ll6b05wSLrz/uLOxF9nosDRft7fOLorapkPPdtXQlFwa6YgORtosezHtrEV05nKjT1mUVwuPIvUzSesUlg==",
+  "dgSpecHash": "bhEbV5fe1pW7zp7zqx+xQA8UmLpEpRX17HWoJ4qMf5EwbuLjLDS6aV5G7I5vmhKyuhSQROSgoTMTrKN+PzhYDg==",
   "success": true,
-  "projectFilePath": "C:\\CODE\\Code\\CMPG323\\Project2\\CMPG323_Project2_39909476\\Project2_39909476_webapi\\Project2_39909476_webapi.csproj",
+  "projectFilePath": "C:\\CODE\\Code\\CMPG323\\Project2\\CMPG323_Project2_39909476\\Project2_39909476_webapi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\berna\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\berna\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

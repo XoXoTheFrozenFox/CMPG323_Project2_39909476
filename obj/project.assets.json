@@ -10907,11 +10907,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\CODE\\Code\\CMPG323\\Project2\\CMPG323_Project2_39909476\\Project2_39909476_webapi\\Project2_39909476_webapi.csproj",
+      "projectUniqueName": "C:\\CODE\\Code\\CMPG323\\Project2\\CMPG323_Project2_39909476\\Project2_39909476_webapi.csproj",
       "projectName": "Project2_39909476_webapi",
-      "projectPath": "C:\\CODE\\Code\\CMPG323\\Project2\\CMPG323_Project2_39909476\\Project2_39909476_webapi\\Project2_39909476_webapi.csproj",
+      "projectPath": "C:\\CODE\\Code\\CMPG323\\Project2\\CMPG323_Project2_39909476\\Project2_39909476_webapi.csproj",
       "packagesPath": "C:\\Users\\berna\\.nuget\\packages\\",
-      "outputPath": "C:\\CODE\\Code\\CMPG323\\Project2\\CMPG323_Project2_39909476\\Project2_39909476_webapi\\obj\\",
+      "outputPath": "C:\\CODE\\Code\\CMPG323\\Project2\\CMPG323_Project2_39909476\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

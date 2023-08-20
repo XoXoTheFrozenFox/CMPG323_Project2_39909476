@@ -40,9 +40,9 @@ Did the following tasks:
 
 - Opted to used CI/CD with github actions to deploy my webapp.
 - I want to give credit to my brother Pieter Swanepoel for showing me how to use CI/CD with github-actions, without his assitance I probably wouldn't have had a deployed project.
-- Fixed http-error 404
+- Fixed http-error 404.
 - Got an http-error 500 because azure database settings not correctly configured.
-- Fixed http-error 500
+- Fixed http-error 500.
 
 # Planned work
 

@@ -10,5 +10,6 @@
     <WebStackScaffolding_LayoutPageFile />
     <WebStackScaffolding_DbContextTypeFullName>Project2_39909476_webapi.Models.EcoPowerSolutionsContext</WebStackScaffolding_DbContextTypeFullName>
     <WebStackScaffolding_IsAsyncSelected>False</WebStackScaffolding_IsAsyncSelected>
+    <NameOfLastUsedPublishProfile>C:\CODE\Code\CMPG323\Project2\CMPG323_Project2_39909476\Project2_39909476_webapi\Properties\PublishProfiles\Project239909476webapi20230819155759 - Web Deploy.pubxml</NameOfLastUsedPublishProfile>
   </PropertyGroup>
 </Project>

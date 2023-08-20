@@ -23,3 +23,6 @@ packages/
 
 # Ignore solution files
 *.sln
+
+appsettings.json
+appsettings.development.json

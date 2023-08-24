@@ -57,9 +57,10 @@ Did the following tasks:
 # Work did on 2023/08/24
 
 - Did the setup for API management.
+- Implemented API management functions.
 - Readded the .gitignore.
 - Coulnd't find a way to remove the appsettings files without my publish failing with CICD, so I simply added [ci skip] to not publish.
-- There is a large chance of me not adding the security into the project thanks to the crunch week that lies ahead me filled with many tests which I should learn for but I really did enjoy this project.
+- There is a large chance of me not adding the security into the project thanks to the crunch week that lies ahead of me, filled with many tests which I should learn for but I really did enjoy this project.
 
 # How one should go about using the API
 

@@ -62,6 +62,12 @@ Did the following tasks:
 - Coulnd't find a way to remove the appsettings files without my publish failing with CICD, so I simply added [ci skip] to not publish.
 - There is a large chance of me not adding the security into the project thanks to the crunch week that lies ahead of me, filled with many tests which I should learn for but I really did enjoy this project.
 
+# Work did on 2023/08/29
+
+- Added the order controller.
+- Added a patch method to the controller.
+- Added a GET method that retrieves all orders for a specific customer.
+
 # How one should go about using the API
 
 - One should pull the data from the api's endpoints and use the data for data analytics or business insights.
@@ -71,8 +77,10 @@ Did the following tasks:
 - Use the get endpoints to get data from the database or to get specific data using an ID.
 - Use put method to update the entire resource with data that is passed in the body payload
 - Use post method to update or create a resource.
-- Use patch method to midify resources.
+- Use patch method to modify resources.
 - Use of delete method to delete resources.
+- The API is available on the internet hosted on AZURE.
+- No security is used therefore the API is open.
   
 # Bibliography( Research I did for me to be able to do this project)
 

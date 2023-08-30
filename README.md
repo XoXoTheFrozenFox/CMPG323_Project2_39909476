@@ -1,6 +1,27 @@
 # CMPG323_Project2_39909476
 This is Bernard Swanepoel 39909476 API project for CMPG323 project2.
 
+# Link for API:
+
+- https://cpmg323be.azurewebsites.net/swagger/index.html
+
+# All The API endpoints used:
+- Customers
+
+![image](https://github.com/XoXoTheFrozenFox/CMPG323_Project2_39909476/assets/104361159/0a5ba3ab-c072-4b9f-bfbf-4434736a45af)
+
+- OrderDetails
+
+![image](https://github.com/XoXoTheFrozenFox/CMPG323_Project2_39909476/assets/104361159/36dbdfd8-4833-4f68-a725-82ca21d6252a)
+
+- Orders
+
+![image](https://github.com/XoXoTheFrozenFox/CMPG323_Project2_39909476/assets/104361159/9857117e-98f8-4c5d-a2fc-96de985c40a8)
+
+- Products
+
+![image](https://github.com/XoXoTheFrozenFox/CMPG323_Project2_39909476/assets/104361159/2aa89bb9-7a57-4122-beb0-91bfc6216c4e)
+
 # Work did on 2023/08/17
 
 Did the following tasks:
